@@ -10,8 +10,7 @@ want them tested before real money goes in.
 ## 🔬 What I'm building
 
 **Research platform** *(private)*: an end-to-end stack for researching systematic
-strategies. Point-in-time data from free sources, a backtester with costs and financing,
-walk-forward and overfitting tests, and prop-firm challenge simulation.
+strategies. A Backtester with costs and financing, optimisation and overfitting tests.
 
 ---
 
